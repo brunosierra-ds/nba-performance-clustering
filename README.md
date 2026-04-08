@@ -12,3 +12,5 @@ Este proyecto utiliza **Python** para analizar el rendimiento de jugadores y agr
 ## Hallazgos Clave
 * Identificación de **3 perfiles principales** de jugadores según su impacto en el juego.
 * Detección de **outliers** de alta eficiencia que superan significativamente el promedio de la liga.
+
+![outlier](https://github.com/user-attachments/assets/7ad70a78-04f7-4d43-9e51-625d6baaec23)
